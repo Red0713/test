@@ -1,1 +1,1 @@
-srcとwebcontentをコピーする
+srcとwebcontentをコピーすると共有可
